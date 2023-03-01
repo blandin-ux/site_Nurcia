@@ -54,7 +54,7 @@ https://templatemo.com/tm-565-onix-digital
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
             <a href="index.html" class="logo">
-              <img src="assets/images/logo.png">
+              <img src="assets/images/hh.jpeg" style="width: 180px;border-radius: 78px;height: 150px;">
             </a>
             <!-- ***** Logo End ***** -->
             <!-- ***** Menu Start ***** -->
@@ -63,10 +63,10 @@ https://templatemo.com/tm-565-onix-digital
               <li class="scroll-to-section"><a href="#services">Services</a></li>
               <li class="scroll-to-section"><a href="#about">About</a></li>
               <li class="scroll-to-section"><a href="#portfolio">Portfolio</a></li>
-              <li class="scroll-to-section"><a href="#video">Videos</a></li> 
-              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li> 
-              <li class="scroll-to-section"><div class="main-red-button-hover"><a href="#contact">Contact Us Now</a></div></li> 
-            </ul>        
+              <li class="scroll-to-section"><a href="#video">Videos</a></li>
+              <li class="scroll-to-section"><a href="#contact">Contact Us</a></li>
+              <li class="scroll-to-section"><div class="main-red-button-hover"><a href="#contact">Contact Us Now</a></div></li>
+            </ul>
             <a class='menu-trigger'>
                 <span>Menu</span>
             </a>
@@ -619,7 +619,7 @@ https://templatemo.com/tm-565-onix-digital
                       </div>
                     </div>
                   </div>
-                </div>             
+                </div>
               </div>
             </div>
           </div>
@@ -739,7 +739,7 @@ https://templatemo.com/tm-565-onix-digital
         </div>
         <div class="col-lg-12">
           <div class="copyright">
-            <p>Copyright © 2021 Onix Digital Co., Ltd. All Rights Reserved. 
+            <p>Copyright © 2021 Onix Digital Co., Ltd. All Rights Reserved.
             <br>
             Designed by <a rel="nofollow" href="https://templatemo.com" title="free CSS templates">TemplateMo</a></p>
           </div>
